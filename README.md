@@ -1,7 +1,7 @@
 # 👋 你好，我是 AAA-Allen
 
 <p align="center"><img src="assets/logo.png" alt="Future in here" width="480"></p>
-> 用四个理念组织我的公开工作：**Build · Learn · Share · Grow**。
+用四个理念组织我的公开工作：<b>Build · Learn · Share · Grow</b>。
 
 [![Profile views](https://komarev.com/ghpvc/?username=AAA-Allen&style=flat-square&color=7C3AED)](https://github.com/AAA-Allen)
 [![GitHub stars](https://img.shields.io/github/stars/AAA-Allen?affiliations=OWNER&style=social)](https://github.com/AAA-Allen?tab=repositories)
