@@ -1,45 +1,23 @@
 # 🤖 Skills / 给 Agent 的 Skills
 
-这里收纳**可复用的 Agent / Skill 定义**——把我在开发中沉淀的工作流（脚手架生成、改名、功能瘦身、文档核查等）固化成 Skill，供 Claude Code 等 Agent 直接调用。
-This folder collects **reusable Agent / Skill definitions** — turning the workflows I've distilled (scaffold generation, renaming, feature-slimming, doc audit…) into Skills callable by agents like Claude Code.
+> ✅ 我沉淀的 Skill 已迁至**独立仓库**：[AAA-Allen/FIH-skills](https://github.com/AAA-Allen/FIH-skills)
+> Dedicated skills now live in their own repo: [AAA-Allen/FIH-skills](https://github.com/AAA-Allen/FIH-skills).
 
-## 设计原则 / Design principles
+本页面仅作导航索引，实际 Skill 定义以独立仓库为准。
+This page is just a pointer; the actual skill definitions live in the repo above.
 
-- 一个 Skill 解决一类明确任务，含 `SKILL.md` 说明 + 必要的 `scripts/`、`references/`。
-- 避免把敏感信息、个人文件写进 Skill。
+## 已收录的 Skills / Included skills
 
-## 当前状态 / Status
+| Skill | 说明 / What | 入口 |
+| --- | --- | --- |
+| `continew-add-filetype` | 给 ContiNew-Admin 新增文件类型 / 追加后缀映射 | [SKILL.md →](https://github.com/AAA-Allen/FIH-skills/blob/main/continew-add-filetype/SKILL.md) |
+| `continew-remove-app` | 一键移除 ContiNew-Admin 「开放平台-应用管理」模块（可回滚） | [SKILL.md →](https://github.com/AAA-Allen/FIH-skills/blob/main/continew-remove-app/SKILL.md) |
+| `yunxiao-devops` | 云效（阿里云 DevOps）全流程自动化 | [SKILL.md →](https://github.com/AAA-Allen/FIH-skills/blob/main/yunxiao-devops/SKILL.md) |
 
-> 🚧 专属 Skills 整理中 / Dedicated skills are being organized (coming soon).
+## 结构约定 / Convention
 
-计划首批沉淀的 Skills（草案）：
-- `scaffold-slim` — 从 ContiNew 类 monorepo 按 prd 做功能瘦身并改名。
-- `repo-rename` — 跨包名 / artifactId / 类名 / 种子数据 / Logo 的全量改名。
-- `profile-readme` — 生成双语 GitHub profile 导航页（即本仓库的来由）。
-
-## SKILL.md 模板 / Template
-
-```markdown
----
-name: <skill-name>
-description: <何时使用该 skill 的一句话触发描述 / one-line trigger>
----
-
-# <Skill 名称>
-
-## 适用场景 / When to use
-<什么情况下调用本 skill>
-
-## 步骤 / Steps
-1. ...
-2. ...
-
-## 注意事项 / Caveats
-- ...
-```
-
-> 每个 Skill 放在独立子目录：`skills/<skill-name>/SKILL.md`。
+每个 Skill 独立目录：`SKILL.md`（frontmatter 触发描述 + 步骤）+ `scripts/` + `references/`。
+Agent 通过 `SKILL.md` 的 `description` 触发调用。可克隆仓库或通过 URL 直接加载。
 
 ---
-
 ← 返回导航首页 / Back to [home](../README.md)

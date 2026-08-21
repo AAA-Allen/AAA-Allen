@@ -12,7 +12,7 @@
 | --- | --- | --- |
 | 🔧 **Build** | 我构建的项目与脚手架 / Projects & scaffolds I build | [projects/](projects/README.md) |
 | 📖 **Learn** | 我在学什么、探索的范式 / What I learn & paradigms I explore | [docs/](docs/README.md) |
-| 🤝 **Share** | 分享给 Agent 的 Skills / Skills I share with agents | [skills/](skills/README.md) |
+| 🤝 **Share** | 分享给 Agent 的 Skills / Skills I share with agents | [AAA-Allen/FIH-skills](https://github.com/AAA-Allen/FIH-skills) |
 | 🌱 **Grow** | 正在成长的方向 / Where I'm growing | 见下方 ↓ |
 
 ---
@@ -28,7 +28,8 @@
 
 ## 🤝 Share / 分享
 
-- 可复用的 Agent Skill 定义（Claude Code 通用，整理中）→ [skills/README.md](skills/README.md)
+- 可复用的 Agent / Skill 定义 → [AAA-Allen/FIH-skills](https://github.com/AAA-Allen/FIH-skills)
+  - 已收录：`continew-add-filetype` · `continew-remove-app` · `yunxiao-devops`
 
 ## 🌱 Grow / 成长（当前在做）
 
