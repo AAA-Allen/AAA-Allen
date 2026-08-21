@@ -7,7 +7,7 @@ This is the index of core repos & scaffolds I maintain. Each project has its own
 
 | 项目 Project | 一句话说明 One-liner | 详情 Details |
 | --- | --- | --- |
-| [oh-my-admin](oh-my-admin.md) | 基于 ContiNew Admin 精简的后台管理脚手架（原 OKS_admin） | [oh-my-admin.md](oh-my-admin.md) |
+| [oh-my-admin](oh-my-admin.md) | 基于 ContiNew Admin 精简的后台管理脚手架 | [oh-my-admin.md](oh-my-admin.md) |
 
 ## 如何新增 / How to add
 
