@@ -20,6 +20,7 @@
 ## 🔧 Build / 构建
 
 - **[oh-my-admin](projects/oh-my-admin.md)** · ![stars](https://img.shields.io/github/stars/AAA-Allen/oh-my-admin?style=social) — 基于 ContiNew Admin 精简的后台管理脚手架
+- **[Boat](projects/boat.md)** · ![stars](https://img.shields.io/github/stars/AAA-Allen/Boat?style=social) — 一站式项目与运维资产管理（项目/任务 + 服务器/域名/凭据台账 + SSH 自动部署）
 
 ## 📖 Learn / 学习
 
@@ -46,7 +47,7 @@
 
 <div align="center">
 
-![Java](https://img.shields.io/badge/Java-21-ED8B00?logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.4.10-6DB33F?logo=springboot&logoColor=white) ![Spring Web](https://img.shields.io/badge/Spring%20Web-6-6DB33F) ![Maven](https://img.shields.io/badge/Maven-3.9-C71A36?logo=apachemaven&logoColor=white) ![MyBatis-Plus](https://img.shields.io/badge/MyBatis--Plus-3-2ECC71) ![Sa-Token](https://img.shields.io/badge/Sa--Token-1.39-FF6B6B) ![Hutool](https://img.shields.io/badge/Hutool-5.8-9ACD32) ![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-7-DC382D?logo=redis&logoColor=white) ![Vue](https://img.shields.io/badge/Vue-3-42B883?logo=vuedotjs&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-6-646CFF?logo=vite&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?logo=typescript&logoColor=white) ![Pinia](https://img.shields.io/badge/Pinia-2-FFD859?logo=pinia&logoColor=white) ![Element Plus](https://img.shields.io/badge/Element%20Plus-2-409EFF) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![AI Agent](https://img.shields.io/badge/AI%20Agent-Claude-7C3AED)
+![Java](https://img.shields.io/badge/Java-21-ED8B00?logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.4.10-6DB33F?logo=springboot&logoColor=white) ![Spring Web](https://img.shields.io/badge/Spring%20Web-6-6DB33F) ![Maven](https://img.shields.io/badge/Maven-3.9-C71A36?logo=apachemaven&logoColor=white) ![MyBatis-Plus](https://img.shields.io/badge/MyBatis--Plus-3-2ECC71) ![Sa-Token](https://img.shields.io/badge/Sa--Token-1.39-FF6B6B) ![Hutool](https://img.shields.io/badge/Hutool-5.8-9ACD32) ![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-7-DC382D?logo=redis&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-10-E0234E?logo=nestjs&logoColor=white) ![TypeORM](https://img.shields.io/badge/TypeORM-0.3-FE0803?logo=typeorm&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-8-4479A1?logo=mysql&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-18-339933?logo=nodedotjs&logoColor=white) ![SSH2](https://img.shields.io/badge/SSH2-1.15-000000) ![Vue](https://img.shields.io/badge/Vue-3-42B883?logo=vuedotjs&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-6-646CFF?logo=vite&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?logo=typescript&logoColor=white) ![Pinia](https://img.shields.io/badge/Pinia-2-FFD859?logo=pinia&logoColor=white) ![Element Plus](https://img.shields.io/badge/Element%20Plus-2-409EFF) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![AI Agent](https://img.shields.io/badge/AI%20Agent-Claude-7C3AED)
 
 ---
 
