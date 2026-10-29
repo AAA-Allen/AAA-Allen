@@ -32,14 +32,11 @@
 - 可复用的 Agent / Skill 定义 → [AAA-Allen/FIH-skills](https://github.com/AAA-Allen/FIH-skills)
   - 已收录：`continew-add-filetype` · `continew-remove-app` · `yunxiao-devops`
 
-## 🌱 Grow / 成长（当前在做）
+## 🌱 Grow / 成长（当前在做 / In progress）
 
-- **AInative 框架**：dual-repo 脚手架生成器 + `.claude/` 协议层封装
-- **ContiNew Admin** monorepo 功能瘦身（按 `docs/prd.md` 移除 13 类功能并清理残留产物）
-- **Agent/Skill 范式迁移**：Claude Code 体系适配
-- **AInative Framework**: dual-repo scaffold generator + `.claude/` protocol layer
-- **ContiNew Admin** monorepo slimming (13 categories per `docs/prd.md`)
-- **Agent/Skill migration**: Claude Code adaptation
+- **AInative 框架** — dual-repo 脚手架生成器 + `.claude/` 协议层封装 / scaffold generator + protocol layer
+- **ContiNew Admin** monorepo 功能瘦身 — 按 `docs/prd.md` 移除 13 类功能并清理残留产物 / slimming & leftover cleanup
+- **Agent/Skill 范式迁移** — Claude Code 体系适配 / migration to Claude Code
 
 ---
 
