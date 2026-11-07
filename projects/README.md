@@ -7,8 +7,11 @@ This is the index of core repos & scaffolds I maintain. Each project has its own
 
 | 项目 Project | 一句话说明 One-liner | 详情 Details |
 | --- | --- | --- |
+| [agent-core](agent-core.md) | 轻量、可追踪的 Agent 工作流运行时 | [agent-core.md](agent-core.md) |
 | [oh-my-admin](oh-my-admin.md) | 基于 ContiNew Admin 精简的后台管理脚手架 | [oh-my-admin.md](oh-my-admin.md) |
 | [Boat](boat.md) | 一站式项目与运维资产管理（含 SSH 自动部署） | [boat.md](boat.md) |
+| [Verse-Glean](verse-glean.md) | 影海拾光：短视频知识胶囊提取与 3D 知识图谱（大创项目） | [verse-glean.md](verse-glean.md) |
+| [dsh-oks](dsh-oks.md) | DSH 插件：接入本地 OKS 知识库的召回与浏览 | [dsh-oks.md](dsh-oks.md) |
 
 ## 如何新增 / How to add
 

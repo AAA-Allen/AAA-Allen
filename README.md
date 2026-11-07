@@ -19,8 +19,11 @@
 
 ## 🔧 Build / 构建
 
+- **[agent-core](projects/agent-core.md)** · ![stars](https://img.shields.io/github/stars/AAA-Allen/agent-core?style=social) — 轻量、可追踪、可扩展的 Agent 工作流运行时（Graph 编排 + Trace/Checkpoint + HTTP 工作台）
 - **[oh-my-admin](projects/oh-my-admin.md)** · ![stars](https://img.shields.io/github/stars/AAA-Allen/oh-my-admin?style=social) — 基于 ContiNew Admin 精简的后台管理脚手架
 - **[Boat](projects/boat.md)** · ![stars](https://img.shields.io/github/stars/AAA-Allen/Boat?style=social) — 一站式项目与运维资产管理（项目/任务 + 服务器/域名/凭据台账 + SSH 自动部署）
+- **[Verse-Glean](projects/verse-glean.md)** · ![stars](https://img.shields.io/github/stars/AAA-Allen/Verse-Glean?style=social) — 影海拾光：短视频「知识胶囊」提取与 3D 知识图谱（大创项目）
+- **[dsh-oks](projects/dsh-oks.md)** · ![stars](https://img.shields.io/github/stars/AAA-Allen/dsh-oks?style=social) — DSH 插件：把本地 OKS 知识库接入 Agent 召回与知识浏览
 
 ## 📖 Learn / 学习
 
@@ -34,6 +37,8 @@
 
 ## 🌱 Grow / 成长（当前在做 / In progress）
 
+- **agent-core** — Agent 运行时与工作台迭代（Trace / Checkpoint / 工具循环）/ runtime & workbench
+- **Verse-Glean 影海拾光** — 短视频知识胶囊 → 3D 知识图谱，大创项目至 2027.05 / knowledge capsule & graph
 - **AInative 框架** — dual-repo 脚手架生成器 + `.claude/` 协议层封装 / scaffold generator + protocol layer
 - **ContiNew Admin** monorepo 功能瘦身 — 按 `docs/prd.md` 移除 13 类功能并清理残留产物 / slimming & leftover cleanup
 - **Agent/Skill 范式迁移** — Claude Code 体系适配 / migration to Claude Code
@@ -44,7 +49,7 @@
 
 <div align="center">
 
-![Java](https://img.shields.io/badge/Java-21-ED8B00?logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.4.10-6DB33F?logo=springboot&logoColor=white) ![Spring Web](https://img.shields.io/badge/Spring%20Web-6-6DB33F) ![Maven](https://img.shields.io/badge/Maven-3.9-C71A36?logo=apachemaven&logoColor=white) ![MyBatis-Plus](https://img.shields.io/badge/MyBatis--Plus-3-2ECC71) ![Sa-Token](https://img.shields.io/badge/Sa--Token-1.39-FF6B6B) ![Hutool](https://img.shields.io/badge/Hutool-5.8-9ACD32) ![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-7-DC382D?logo=redis&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-10-E0234E?logo=nestjs&logoColor=white) ![TypeORM](https://img.shields.io/badge/TypeORM-0.3-FE0803?logo=typeorm&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-8-4479A1?logo=mysql&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-18-339933?logo=nodedotjs&logoColor=white) ![SSH2](https://img.shields.io/badge/SSH2-1.15-000000) ![Vue](https://img.shields.io/badge/Vue-3-42B883?logo=vuedotjs&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-6-646CFF?logo=vite&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?logo=typescript&logoColor=white) ![Pinia](https://img.shields.io/badge/Pinia-2-FFD859?logo=pinia&logoColor=white) ![Element Plus](https://img.shields.io/badge/Element%20Plus-2-409EFF) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![AI Agent](https://img.shields.io/badge/AI%20Agent-Claude-7C3AED)
+![Java](https://img.shields.io/badge/Java-21-ED8B00?logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.4.10-6DB33F?logo=springboot&logoColor=white) ![Spring Web](https://img.shields.io/badge/Spring%20Web-6-6DB33F) ![Maven](https://img.shields.io/badge/Maven-3.9-C71A36?logo=apachemaven&logoColor=white) ![MyBatis-Plus](https://img.shields.io/badge/MyBatis--Plus-3-2ECC71) ![Sa-Token](https://img.shields.io/badge/Sa--Token-1.39-FF6B6B) ![Hutool](https://img.shields.io/badge/Hutool-5.8-9ACD32) ![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-7-DC382D?logo=redis&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-10-E0234E?logo=nestjs&logoColor=white) ![TypeORM](https://img.shields.io/badge/TypeORM-0.3-FE0803?logo=typeorm&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-8-4479A1?logo=mysql&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-18%2B-339933?logo=nodedotjs&logoColor=white) ![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white) ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?logo=jetpackcompose&logoColor=white) ![SSH2](https://img.shields.io/badge/SSH2-1.15-000000) ![Vue](https://img.shields.io/badge/Vue-3-42B883?logo=vuedotjs&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-6-646CFF?logo=vite&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?logo=typescript&logoColor=white) ![Pinia](https://img.shields.io/badge/Pinia-2-FFD859?logo=pinia&logoColor=white) ![Element Plus](https://img.shields.io/badge/Element%20Plus-2-409EFF) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![AI Agent](https://img.shields.io/badge/AI%20Agent-Claude-7C3AED)
 
 ---
 
